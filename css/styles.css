@@ -1,5 +1,5 @@
 .cool {
-  width: 30%;
+  width: 80%;
   height: auto;
   border: 1px black;
   border-radius: 40px;
@@ -13,4 +13,9 @@
 
 .better {
   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.column {
+  width: 300px;
+  float: left;
 }
