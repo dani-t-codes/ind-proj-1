@@ -1,5 +1,13 @@
 .background {
-  background: #F2EFE9
+  background: #F2EFE9;
+}
+
+ul {
+  background: #F2EFE9;
+}
+
+h3 {
+  background: #6A8AA6;
 }
 
 .cool {
@@ -32,6 +40,11 @@
   border-width: thick;
   margin: 10px;
   padding: 20px;
+}
+
+.wonderbread {
+  background-color: #73535E;opacity:0.3;
+  font: italic small-caps bold black;
 }
 
 @media all and (max-width: 300px) {
