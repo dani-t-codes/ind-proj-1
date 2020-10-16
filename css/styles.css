@@ -13,14 +13,16 @@
 
 .better {
   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-  background-color: #2484BF;
+  color: #F2EFE9;
+  letter-spacing: 3px;
+  background-color: #6A8AA6;
   text-align: center;
 }
 
 .column {
   width: 300px;
   float: left;
-  border-style: double;
+  border-style: dashed double;
   border-color: #BFB8AE #73535E; 
   border-width: thick;
   margin: 10px;
