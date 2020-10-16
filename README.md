@@ -10,7 +10,7 @@ _{This is my first independent project made while attending Epicodus' coding sch
 
 ## Setup
 
-_{To access this project, please visit GitHub Pages and access the project in your browser at dani-t-codes.github.io/ind-proj-1}_
+_{To access this project, please visit GitHub Pages and access the project in your browser at [Ind-Proj-1](https://dani-t-codes.github.io/ind-proj-1).}_
 
 ## Support and contact details
 
