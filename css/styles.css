@@ -2,11 +2,15 @@
   width: 30%;
   height: auto;
   border: 1px black;
-  border-radius: 8px;
+  border-radius: 40px;
   padding: 5px;
-  background-color: teal;
+  background-color: #2484BF;
   display: block;
   margin-left: auto;
   margin-right: auto;
   box-sizing: border-box;
+}
+
+.better {
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
