@@ -6,15 +6,15 @@
 
 ## Description
 
-_{First independent project on the topic of the beginnings of my portfolio, made while attending Epicodus' coding school. This project will be added to and improved over the course of my program with Epicodus as I learn more programming skills. Learn a little bit about my background, skills, style, and personality in this project.}_
+_{This is my first independent project made while attending Epicodus' coding school on the topic of the beginnings of my portfolio. Some simple HTML, CSS, and Markdown language use is used. This project will be added to and improved over the course of my program with Epicodus as I learn more programming skills. In the meantime, *readme* and earn a little bit about my background, skills, style, and personality in this project.}_
 
 ## Setup
 
-_{DT - to edit}_
+_{To access this project, please visit GitHub Pages and access the project in your browser at dani-t-codes.github.io/ind-proj-1}_
 
 ## Support and contact details
 
-_{Reach me at xyz_fixme at gmail.com.}_
+_{Reach me at danithompson74 at gmail.com.}_
 
 ## Technologies Used
 
@@ -25,7 +25,5 @@ _{GitHub Pages}_
 
 ### License
 
-*{MIT}* 
-
-Copyright (c) 2020 **_{Danielle Thompson}_
+*{MIT}* Copyright (c) 2020 **_{Danielle Thompson}_
 
