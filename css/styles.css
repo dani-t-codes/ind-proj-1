@@ -53,8 +53,8 @@ li {
 }
 
 .wonderbread {
-  background-color: #73535E;opacity:0.3;
-  font: italic small-caps bold black;
+  background: rgb(115, 83, 94, 0.5);
+  font-style: italic;
 }
 
 @media all and (max-width: 300px) {
