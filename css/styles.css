@@ -56,9 +56,3 @@ li {
   background: rgb(115, 83, 94, 0.5);
   font-style: italic;
 }
-
-@media all and (max-width: 300px) {
-  body {
-    background-color: #6A8AA6;
-  }
-}
